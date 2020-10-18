@@ -3,3 +3,5 @@ committee Domains
 AI/ML
 Frontend
 Backend
+UI/UX
+Data Science
